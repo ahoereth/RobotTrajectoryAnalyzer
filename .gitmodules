@@ -1,0 +1,3 @@
+[submodule "UrdfMongo"]
+	path = UrdfMongo
+	url = https://github.com/jannikb/UrdfMongo.git

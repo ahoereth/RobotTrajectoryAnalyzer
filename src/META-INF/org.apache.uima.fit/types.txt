@@ -1,0 +1,1 @@
+classpath*:robotTA/types/TypeSystem.xml
